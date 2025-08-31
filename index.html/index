@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Minha Página no GitHub</title>
+</head>
+<body>
+    <h1>Bem-vinda à minha página!</h1>
+    <p>Essa é a primeira versão da minha página feita com GitHub Pages.</p>
+    <img src="minha_foto.jpg" alt="Foto de exemplo" width="300">
+</body>
+</html>
